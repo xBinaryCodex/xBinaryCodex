@@ -1,16 +1,13 @@
-## Hi there 👋
+### Jose Diaz — Network Engineer → Security
 
-<!--
-**xBinaryCodex/xBinaryCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network engineer in San Antonio building toward security engineering.
+Currently working through a hands-on security tooling curriculum in
+[**SafeDays Lab**](https://github.com/xBinaryCodex/safedays-lab) — building
+defensive tools from first principles to understand how they actually work.
 
-Here are some ideas to get you started:
+**Day job:** enterprise network design — wireless modernization, network
+automation, OT/IT convergence.
+**Certs:** CCNA · Security+ · Network+ · AWS CCP · Arista ACE-A
+**Now:** B.S. Cloud & Network Engineering (WGU) · eJPT next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 San Antonio, TX
