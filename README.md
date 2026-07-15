@@ -5,6 +5,9 @@ Currently working through a hands-on security tooling curriculum in
 [**SafeDays Lab**](https://github.com/xBinaryCodex/safedays-lab) — building
 defensive tools from first principles to understand how they actually work.
 
+🔨 **Currently:** Phase 1 of [SafeDays Lab](https://github.com/xBinaryCodex/safedays-labs) — 
+built a threaded TCP port scanner, DNS tooling next.
+
 **Day job:** enterprise network design — wireless modernization, network
 automation, OT/IT convergence.
 **Certs:** CCNA · Security+ · Network+ · AWS CCP · Arista ACE-A
